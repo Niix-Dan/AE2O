@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "ae2ores:block/deepslate_quartz_ore_0"
+      },
+      {
+        "model": "ae2ores:block/deepslate_quartz_ore_1"
+      },
+      {
+        "model": "ae2ores:block/deepslate_quartz_ore_2"
+      },
+      {
+        "model": "ae2ores:block/deepslate_quartz_ore_3"
+      }
+    ]
+  }
+}
